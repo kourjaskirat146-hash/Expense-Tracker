@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "A minimal and centered expense tracker with an Express backend and plain HTML/CSS frontend. Features in-memory storage, category-wise summaries, and a clean user experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

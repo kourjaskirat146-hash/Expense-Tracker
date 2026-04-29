@@ -1,0 +1,3 @@
+# Academic Reference for Flask Implementation
+Flask==2.2.2
+pytest==7.1.3
